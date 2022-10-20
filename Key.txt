@@ -1,0 +1,9 @@
+Folder Structure:
+
+server - will hold all server related files
+config - will handle the database configuration and connection
+controllers - will hold all logic for each model (i.e creating, updating, etc...)
+models - will hold all the schemas
+routes - will handle all of our routes for each model
+server.js - will handle all the server logic with express
+
